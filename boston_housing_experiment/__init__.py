@@ -1,3 +1,3 @@
-from .mlp import mlp
+from .mlp import mlp, predict
 
-__all__ = ["mlp"]
+__all__ = ["mlp", "predict"]
